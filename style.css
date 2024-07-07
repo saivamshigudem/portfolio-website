@@ -1,0 +1,30 @@
+.navbar {
+    width:100%;
+    height:40%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color:rgba(240, 220, 230, 0.8)
+}
+.nav1{
+    display: flex;
+    width: 20%;
+}
+.logo {
+    font-style: italic;
+    font-size: large;
+    color: blue;
+    
+}
+.nav2 {
+    color: black;
+    
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.dist {
+    margin-right: 30px;
+}
