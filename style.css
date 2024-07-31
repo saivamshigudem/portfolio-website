@@ -1,5 +1,5 @@
 .bg {
-    position: absolute;
+    
     top: 0;
     left: 0;
     width: 100%;
@@ -42,4 +42,11 @@
 }
 .dist {
     margin-right: 30px;
+}
+.skills {
+    width:auto;
+    height:400px;
+    border:2px solid black;
+    margin:50px;
+
 }
